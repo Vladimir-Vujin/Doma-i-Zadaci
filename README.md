@@ -1,2 +1,2 @@
-# DomaciZadaci
-Domaći zadaci ITBootcamp
+# Homeworks
+Homeworks ITBootcamp
