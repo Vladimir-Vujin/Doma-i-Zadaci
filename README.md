@@ -1,2 +1,2 @@
-# Doma-i-Zadaci
+# DomaciZadaci
 Domaći zadaci ITBootcamp
